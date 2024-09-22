@@ -1,0 +1,398 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+a{
+    color: inherit;
+}
+img.bg {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -5;
+}
+section.header-details {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    z-index: 4;
+    position: fixed;
+    right: 2%;
+}
+h1.first_head {
+    font-size: 105px;
+}
+h1.name_head {
+    font-size: 213px;
+    margin-top: -113px;
+    margin-left: -7px;
+    background-image: linear-gradient(180deg, #e69a44 45%, #b9711a 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+    position: relative;
+}
+.contents {
+    padding: 22px;
+    color: white;
+    height: 100vh;
+}
+.myname {
+    background: white;
+    height: f;
+    color: black;
+    padding: 5px;
+    width: 12%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 39px;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 38px;
+    visibility: hidden;
+}
+span.links {
+    display: flex;
+    gap: 11px;
+}
+.link-contaienr{
+    transition: all ease 0.8s;
+}
+.link-contaienr:hover {
+    background: white;
+    color: black;
+    padding: 6px;
+    padding-left: 11px;
+    padding-right: 11px;
+    border-radius: 25px;
+    transition: all ease 0.8s;
+}
+
+section.introductions {
+    display: flex;
+    align-items: center;
+    height: 46vh;
+    justify-content: space-between;
+    margin-top: 7vh;
+}
+img.vick {
+    position: fixed;
+    left: 32%;
+    width: 26.5%;
+    filter: brightness(0.5);
+    bottom: 0;
+    z-index: 5;
+}
+.section-container {
+    width: 38%;
+    background: linear-gradient(53deg, #e69a4433 45%, #b9711a80 90%);
+    padding: 26px;
+    border-radius: 24px;
+    color: white;
+}
+.all_contents {
+    height: 92vh;
+    width: 96%;
+    padding: 33px;
+    background: white;
+    margin: 2%;
+    border-radius: 24px;
+}
+h1.tech_stacjs {
+    background-image: linear-gradient(180deg, #0083ff 45%, #a6d5ff 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+    font-size: 72px;
+    font-stretch: condensed;
+}
+.container_lst {
+    display: flex;
+    gap: 61px;
+    text-align: center;
+    overflow: hidden;
+
+}
+.span-texts {
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.i-container {
+    background-image: linear-gradient(180deg, #0083ff 45%, #a6d5ff 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+    font-size: 72px;
+}
+.i-container i {
+    transition: all ease 0.8s;
+    font-size: 301px;
+}
+@keyframes scroll-left {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+.all_contents_R {
+    height: fit-content;
+    width: 100%;
+    padding: 33px;
+    z-index: 6;
+    position: relative;
+}
+.poject_header {
+    font-size: 88px;
+    font-weight: 800;
+    background-image: linear-gradient(180deg, #e69a44 45%, #b9711a 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+}
+.work_lists {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 9px;
+}
+.work_container {
+    background: linear-gradient(180deg, #e69a44 45%, #b9711a 90%);
+    border-radius: 28px;
+    height: 50vh;
+}
+
+img.project_hile {
+    width: 100%;
+    height: 100%;
+    border-radius: 28px;
+    object-fit: cover;
+}
+.cnjdknd {
+    margin-top: -51vh;
+    background: linear-gradient(360deg, black, transparent);
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 26px;
+    display: flex;
+    align-items: end;
+}
+.detauk {
+    padding: 20px;
+}
+.project_bae {
+    font-size: 39px;
+    font-weight: 700;
+    color: wheat;
+}
+.project_desc {
+    font-size: 12px;
+    color: white;
+}
+
+.learnmore {
+    background: white;
+    width: 25%;
+    text-align: center;
+    border-radius: 22px;
+    padding: 6px;
+    transition: all ease 0.8s;
+}
+
+.learnmore:hover {
+    background: linear-gradient(180deg, #e69a44 45%, #b9711a 90%);
+    color: white;
+    transition: all ease 0.8s;
+}
+
+.lets_build {
+    height: 100vh;
+    width: 100%;
+    padding: 46px;
+    display: flex;
+    align-items: center;
+}
+.builder_container {
+    background: white;
+    width: 100%;
+    height: 100%;
+    padding: 35px;
+    display: flex;
+    align-items: center;
+    border-radius: 49px;
+    z-index: 6;
+}
+.header-cjkd {
+    font-size: 80px;
+    font-weight: 700;
+    background-image: linear-gradient(180deg, #004C94 45%, #297BC4 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+}
+.inner-contetns form {
+    display: grid;
+    gap: 9px;
+}
+textarea.input_text {
+    font-size: 42px;
+    outline: none;
+    border: none;
+}
+button.textme {
+    width: 21%;
+    padding: 14px;
+    border: none;
+    background: linear-gradient(32deg, #004C94 45%, #297BC4 90%);
+    border-radius: 36px;
+    color: white;
+    font-size: 21px;
+    transition: all ease 0.8s;
+}
+button.textme:hover{
+    background: linear-gradient(30deg, #e69a44 45%, #b9711a 90%);
+    transition: all ease 0.8s;
+    cursor: pointer;
+    width: 24%;
+ 
+}
+@media only screen and (max-width: 600px) {
+    h1.first_head {
+        font-size: 42px;
+    }
+    h1.name_head {
+        font-size: 106px;
+        margin-top: -48px;
+        margin-left: -3px;
+        background-image: linear-gradient(180deg, #e69a44 45%, #b9711a 90%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: rgba(0, 0, 0, 0);
+        position: relative;
+    }
+    .work_lists {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 9px;
+    }
+    .section-container {
+        width: 61%;
+        background: linear-gradient(53deg, #e69a4480 45%, #b9711ad9 90%);
+        padding: 26px;
+        border-radius: 24px;
+        color: white;
+        font-size: 9px;
+        margin-top: -11vh;
+    }
+    img.vick {
+        position: fixed;
+        left: 38%;
+        width: 92.5%;
+        filter: brightness(0.5);
+        bottom: 0;
+        z-index: 5;
+    }
+    span.links {
+        display: flex;
+        gap: 11px;
+        font-size: 12px;
+    }
+    h1.tech_stacjs {
+        background-image: linear-gradient(180deg, #0083ff 45%, #a6d5ff 90%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: rgba(0, 0, 0, 0);
+        font-size: 34px;
+        font-stretch: condensed;
+    }
+    .i-container i {
+        transition: all ease 0.8s;
+        font-size: 84px;
+    }
+    .container_lst {
+        display: grid;
+        gap: 11px;
+        text-align: center;
+        overflow: auto;
+        height: 76vh;
+        width: 78%;
+    }       
+    .all_contents_R {
+        height: fit-content;
+        width: 100%;
+        padding: 19px;
+        z-index: 6;
+        position: relative;
+    }
+    .poject_header {
+        font-size: 48px;
+        font-weight: 800;
+        background-image: linear-gradient(180deg, #e69a44 45%, #b9711a 90%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: rgba(0, 0, 0, 0);
+    }
+    .learnmore {
+        background: white;
+        width: 61%;
+        text-align: center;
+        border-radius: 22px;
+        padding: 6px;
+        transition: all ease 0.8s;
+    }
+    .project_desc {
+        font-size: 9px;
+        color: white;
+    }
+    .lets_build {
+        height: 100vh;
+        width: 100%;
+        padding: 11px;
+        display: flex;
+        align-items: center;
+    }
+    .builder_container {
+        background: white;
+        width: 100%;
+        height: 100%;
+        padding: 23px;
+        display: flex;
+        align-items: flex-start;
+        border-radius: 26px;
+        z-index: 6;
+    }
+    .header-cjkd {
+        font-size: 32px;
+        font-weight: 700;
+        background-image: linear-gradient(180deg, #004C94 45%, #297BC4 90%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: rgba(0, 0, 0, 0);
+    }
+    textarea.input_text {
+        font-size: 33px;
+        outline: none;
+        border: none;
+    }
+    button.textme {
+        width: 67%;
+        padding: 14px;
+        border: none;
+        background: linear-gradient(32deg, #004C94 45%, #297BC4 90%);
+        border-radius: 36px;
+        color: white;
+        font-size: 21px;
+        transition: all ease 0.8s;
+    }
+    .builder_container {
+        background: white;
+        width: 100%;
+        height: fit-content;
+        padding: 23px;
+        display: flex;
+        align-items: flex-start;
+        border-radius: 26px;
+        z-index: 6;
+    }
+    
+    
+  }
