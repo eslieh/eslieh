@@ -47,8 +47,8 @@ E-commerce platform for custom wall art with free delivery across Kenya.
 
 ---
 
-### 3. CloudMic – *Live Audio Streaming & Podcasts*
-Real-time audio streaming app for hosts and listeners with live comments.
+### 3. Blubbb – *Voice chats for small groups*
+ real-time audio chat platform where users can join virtual rooms.
 
 **Tech:** React, Flask, WebSockets, Google OAuth  
 **Role:** Full-stack developer — built authentication, live audio streaming, and chat features.  
