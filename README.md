@@ -13,7 +13,7 @@ Hi! I’m **Eslieh**, a Kenyan software engineer passionate about creating produ
 I specialize in building fast, scalable web and mobile applications using **React**, **React Native**, and **Flask**.
 
 - 🚀 5+ projects launched  
-- 🛠 React Native, React, Flask, Python, PHP  
+- 🛠 Javascript, Python, PHP  
 - 🌍 Worked with clients from Kenya & internationally  
 - 🎯 Focus: speed, performance, and beautiful UI  
 
@@ -21,9 +21,13 @@ I specialize in building fast, scalable web and mobile applications using **Reac
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, React Native, JavaScript, HTML, CSS  
-**Backend:** Flask, Python, PHP, REST APIs  
-**Tools & Platforms:** Git, Docker, Firebase, AWS
+**Frontend:** React, NextJs, JavaScript, HTML, CSS  
+**Mobile:** React Native, Expo, push notifications(fcm.. etc), secure storage, and native module integration
+**Databases & Storage:** PostgreSQL, MySQL, MongoDB, Firebase (Auth, Firestore, Storage), Supabase
+**Backend:** Flask, Laravel, Symfony, FastApi, Django 
+**Devops & Cloud:** Docker, Docker Compose, AWS(EC2, S3, RDS, Lambda, CloudWatch), CGL, Azure, NGINX, CI/CD and serverles functions
+**Realtime & Events Systems:**  WebSockets, WebRTC (voice, video, P2P connections): Kafka, Redis, RabbitMQ for messaging, queues, caching
+**Tools & Others:** Git(Github & Gitlab), Jest / React Testing Library, Stripe, M-Pesa Daraja API integrations, paystack, API design, performance optimization, and scalable architecture
 
 ---
 
