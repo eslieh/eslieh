@@ -9,10 +9,10 @@ I help startups and businesses bring their ideas to life using **React Native**,
 ---
 
 ## 👨‍💻 About Me
-Hi! I’m **Eslieh**, a Kenyan software engineer passionate about creating products that work seamlessly and look great.  
-I specialize in building fast, scalable web and mobile applications using **React**, **React Native**, and **Flask**.
+Hi! I’m **Eslieh**, I'm all about creating products that work seamlessly and look great.  
+I specialize in building fast, scalable web and mobile applications using **JavaScript**, **PHP** and **Python**.
 
-- 🚀 5+ projects launched  
+- 🚀 10+ projects launched  
 - 🛠 Javascript, Python, PHP  
 - 🌍 Worked with clients from Kenya & internationally  
 - 🎯 Focus: speed, performance, and beautiful UI  
