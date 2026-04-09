@@ -1,8 +1,5 @@
 # 🚀 Eslieh Victor – Software Engineer
 
-Building fast, beautiful, and reliable apps for web & mobile.  
-I help startups and businesses bring their ideas to life using **React Native**, **React**, and **Flask** — from MVP to production.
-
 [![Portfolio](https://img.shields.io/badge/🌐_View_My_Work-blue)](#projects)  
 [![Contact](https://img.shields.io/badge/📩_Get_in_Touch-green)](#contact)
 
