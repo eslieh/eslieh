@@ -18,7 +18,7 @@ I specialize in building fast, scalable web and mobile applications using **Java
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, NextJs, JavaScript, HTML, CSS  
+**Web:** React, NextJs, JavaScript, HTML, CSS  
 **Mobile:** React Native, Expo, push notifications(fcm.. etc), secure storage, and native module integration
 **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Firebase (Auth, Firestore, Storage), Supabase
 **Backend:** Flask, Laravel, Symfony, FastApi, Django 
