@@ -35,8 +35,8 @@ I specialize in building fast, scalable web and mobile applications using **Java
 Whether you have an idea for a new app or need help improving your existing product, I’m here to help.
 
 📧 **Email:** [esliehh@gmail.com](mailto:esliehh@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/eslieh](#)  
-💻 **GitHub:** [github.com/eslieh](#)
+💼 **LinkedIn:** [linkedin.com/in/eslieh](https://linkedin.com/in/eslieh)  
+💻 **GitHub:** [github.com/eslieh](https://github.com/eslieh)
 
 ---
 
